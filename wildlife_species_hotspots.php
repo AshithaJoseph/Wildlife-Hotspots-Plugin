@@ -324,7 +324,7 @@ Text Domain:
 
 		</script>
 		<script async defer
-		        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKr9LekENZCp8kHKkCh_rLFc1FRzbOvJs&callback=initMap&libraries=geometry&components=country:AU">
+		        src="https://maps.googleapis.com/maps/api/js?key=xxxxxxxxxx&callback=initMap&libraries=geometry&components=country:AU">
 		</script>
 		</body>
 		</html> <?php
